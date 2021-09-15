@@ -1,0 +1,3 @@
+<?php
+	Record Added Successfully
+?>
