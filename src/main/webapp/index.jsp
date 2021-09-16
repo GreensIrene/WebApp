@@ -62,7 +62,7 @@
 						<li><a class="color_animation" href="#bread">BREAD</a></li>
 						<li><a class="color_animation" href="#featured">FEATURED</a></li>
 						<li><a class="color_animation" href="#reservation">RESERVATION</a></li>
-						<li><a class="color_animation" href="#contact">CONTACT</a></li>
+						<li><a class="color_animation" href="#contact">CONTACTs</a></li>
 					</ul>
 				</div>
 				<!-- /.navbar-collapse -->
