@@ -312,12 +312,7 @@
 												id="subject" class="form" placeholder="Subject" />
 										</div>
 
-										<div class="col-xs-6 ">
-											<!-- Send Button -->
-											<button type="submit" id="submit" name="submit"
-												class="text-center form-btn form-btn">Reserve</button>
-										</div>
-
+							
 									</div>
 								</div>
 
